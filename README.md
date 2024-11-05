@@ -69,8 +69,7 @@ The instructions for this mini project are divided into the following subsection
 
 ## Source Code Location
 
-* [Reserved]
-
-## Acknowledgments
-
-* [Reserved]
+* All of the files are located in the root directory
+* ETL_Mini_Project_Final_Code.ipynb - Combined code from Jimmy and Emeka
+* crowdfunding_db_schema.sql - Database schema
+* crowdfunding_erd.png - ERD sketch of the tables
